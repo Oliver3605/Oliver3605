@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na GVM Soluções
 
-## Tecnologias que eu uso no meu dia:
+## Tecnologias que uso:
 
 <div style="display: inline_block">
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
