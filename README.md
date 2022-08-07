@@ -18,6 +18,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007758?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliversoriano/)
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliver_soriano@hotmail.com)
 
-![Oliver GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliver3605&show_icons=true&theme=dracula&count_private=true)
+![Oliver GitHub stats](https://github-readme-stats.vercel.app/api?username=oliversoriano&show_icons=true&theme=dracula&count_private=true)
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
