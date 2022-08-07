@@ -20,6 +20,4 @@
 
 ![Oliver GitHub stats](https://github-readme-stats.vercel.app/api?username=Oliver3605&show_icons=true&theme=dracula&count_private=true)
 
-Apaixonado por tecnologia e sempre aprendendo mais.
-
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
