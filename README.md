@@ -18,10 +18,15 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007758?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliversoriano/)
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliver_soriano@hotmail.com)
 
+<div align="center">
+  <a href="https://github.com/oliversoriano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oliversoriano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliversoriano&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
+<!--
 ![Oliver GitHub Status](https://github-readme-stats.vercel.app/api?username=oliversoriano&show_icons=true&theme=dracula&count_private=true)
 ![Oliver GitHub Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=oliversoriano&layout=compact&langs_count=7&theme=dracula)
-
-<!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliversoriano&layout=compact&langs_count=7&theme=dracula"/> -->
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliversoriano&layout=compact&langs_count=7&theme=dracula"/> -->
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
