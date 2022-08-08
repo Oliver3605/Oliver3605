@@ -19,6 +19,7 @@
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliver_soriano@hotmail.com)
 
 ![Oliver GitHub Status](https://github-readme-stats.vercel.app/api?username=oliversoriano&show_icons=true&theme=dracula&count_private=true)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliversoriano&layout=compact&langs_count=7&theme=dracula"/>
+![Oliver GitHub Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=oliversoriano&layout=compact&langs_count=7&theme=dracula)
+<!-- <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliversoriano&layout=compact&langs_count=7&theme=dracula"/> -->
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk -->
