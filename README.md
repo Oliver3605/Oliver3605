@@ -12,7 +12,7 @@
 
 ## Contato:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oliversorianof/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oliver.sorianof/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23007758?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oliversoriano/)
 [![Email](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oliver_soriano@hotmail.com)
 
